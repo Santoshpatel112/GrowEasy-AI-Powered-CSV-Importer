@@ -4,7 +4,10 @@ An intelligent CSV data importer built as a full-stack Javascript application (N
 
 ---
 
-
+## 🔗 Live URLs
+- **GitHub Repository**: [https://github.com/Santoshpatel112/GrowEasy-AI-Powered-CSV-Importer](https://github.com/Santoshpatel112/GrowEasy-AI-Powered-CSV-Importer)
+- **Hosted Frontend Dashboard**: [https://grow-easy-ai-powered-csv-importer.vercel.app/](https://grow-easy-ai-powered-csv-importer.vercel.app/)
+- **Hosted Backend API**: [https://groweasy-ai-powered-csv-importer.onrender.com/health](https://groweasy-ai-powered-csv-importer.onrender.com/health)
 
 ---
 
