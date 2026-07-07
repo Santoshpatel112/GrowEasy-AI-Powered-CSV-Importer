@@ -1,0 +1,6 @@
+Creation Date,Full Name,Mail,Ph. Number,Firm,Location,Sales Owner,Ingestion Status,Details
+May 13 2026,John Doe,john.doe@example.com,+91 9876543210,GrowEasy,"Mumbai, India",test@gmail.com,GOOD_LEAD_FOLLOW_UP,wants to reschedule demo
+2026/05/14,Sarah Johnson,sarah.johnson@example.com secondary@gmail.com,+91 9876543211,Tech Solutions,"Bangalore, KA",test@gmail.com,DID_NOT_CONNECT,busy right now
+2026-05-15 10:00:00,Rajesh Patel,,+91 9876543212,Startup Inc,Delhi,test@gmail.com,BAD_LEAD,not interested
+15-May-2026,Priya Singh,priya.singh@example.com,,Enterprise Corp,Pune,test@gmail.com,SALE_DONE,closed onboarding
+,Invalid Lead,,,Missing Details,,BAD_LEAD,no phone or email should be skipped
