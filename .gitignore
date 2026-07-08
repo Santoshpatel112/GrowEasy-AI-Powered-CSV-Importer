@@ -16,8 +16,32 @@ out/
 .env.development.local
 .env.test.local
 .env.production.local
+.env*.local
+*.env
 **/.env
 **/.env.local
+**/.env.*
+.env.backup
+.env.sample
+
+# Keys and credentials
+*.pem
+*.key
+*.pub
+*.cert
+*.crt
+*.pfx
+*.p12
+*.der
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+*credentials*.json
+*creds*.json
+client_secret*.json
+google-services.json
+GoogleService-Info.plist
 
 # Operating System Files
 .DS_Store
